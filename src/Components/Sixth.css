@@ -1,0 +1,69 @@
+.sixthcont{
+    width:100%;
+    height:400px;
+}
+
+@media screen and (max-width:400px) {
+    .sixthcont{
+        height:1050px;
+    }
+}
+
+.sixthcontpercent{
+    width:80%;
+    height:400px;
+    margin:auto;
+}
+
+
+@media screen and (max-width:400px) {
+    .sixthcontpercent{
+        width:100%;
+        height:1050px;
+    }
+}
+
+
+.threeofsixth{
+    width:33%;
+    background-color:white;
+    height:380px;
+    margin-left:2px;
+    float:left;
+}
+
+@media screen and (max-width:400px) {
+    .threeofsixth{
+        width:100%;
+        margin-left:0px;
+        height:350px;
+    }
+}
+
+.threeofsixth img{
+margin-left:50px;
+}
+
+@media screen and (max-width:400px) {
+    .threeofsixth img{
+        margin-left:40px;
+        height:200px;
+    }
+}
+
+#numbers{
+    font-size:25px;
+    font-weight:bold;
+    margin-left:150px;
+}
+
+#headofprop{
+    text-align:center;
+    margin-top:-10px;
+    font-size:20px;
+}
+
+#hrs{
+    margin-top:-10px;
+    text-align:center;
+}
