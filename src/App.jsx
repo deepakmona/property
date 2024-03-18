@@ -45,7 +45,7 @@ function App() {
       <> 
     <Navbar/>
     <Firstcont/>
-    <Secondcont/>
+    {/* <Secondcont/>
     <Thirdcont/>
     <Fourthcont/>
     <Fifthcont/>
@@ -54,7 +54,7 @@ function App() {
     <Eigth/>
     <Ninth/>
     <Search/>
-    <Footer/>
+    <Footer/> */}
      {/* <Loginform/> */}
 
     </>
