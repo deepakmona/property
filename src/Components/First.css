@@ -5,13 +5,8 @@
     background-image:url("../assets/img003.jpg");
     background-repeat:no-repeat;
     background-size:100%;
+    /* margin-top:-70px; */
 }
-
-@media screen and (max-width:769px) and (max-width:1498) {
-    .firstcont{
-    
-    }
-  }
 
 
 @media screen and (max-width:767px) {
