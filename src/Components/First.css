@@ -27,11 +27,6 @@
     position: absolute;
 }
 
-@media screen and (min-width:400px) and (max-width:766px) {
-    .card{
-    
-    }
-}
 
 @media screen and (max-width:767px) {
     .Card{
