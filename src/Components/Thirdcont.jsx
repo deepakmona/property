@@ -28,22 +28,22 @@ export default function Thirdcont() {
       <div className="thirdcont">
         <h2 id='hea1'>Find Your Property in Your Preferred City</h2>
 
-        <div data-aos="fade-up" className="smallcforsmalldiv">
-        <div data-aos="zoom-in-down" className="smcont"><img src={i1} alt="error" /><br /><p>Pay on Credit</p></div>
-        <div data-aos="zoom-in-down" className="smcont"><img src={i2} alt="error" /><br /><p>Personal Loans</p></div>
-        <div data-aos="zoom-in-down" className="smcont"><img src={i3} alt="error" /><br /><p>Line of Crdit</p></div>
-        <div data-aos="zoom-in-down" className="smcont"><img src={i4} alt="error" /><br /><p>Home Interiors</p></div>
-        <div data-aos="zoom-in-down" className="smcont"><img src={i5} alt="error" /><br /><p>Home Loans</p></div>
-        <div data-aos="zoom-in-down" className="smcont"><img src={i6} alt="error" /><br /><p>Housing Protect</p></div>
+        <div data-aos="fade-up" className="smallcont3">
+        <div data-aos="zoom-in-down" className="scont3"><img src={i1} alt="error" /><br /><p>Pay on Credit</p></div>
+        <div data-aos="zoom-in-down" className="scont3"><img src={i2} alt="error" /><br /><p>Personal Loans</p></div>
+        <div data-aos="zoom-in-down" className="scont3"><img src={i3} alt="error" /><br /><p>Line of Crdit</p></div>
+        <div data-aos="zoom-in-down" className="scont3"><img src={i4} alt="error" /><br /><p>Home Interiors</p></div>
+        <div data-aos="zoom-in-down" className="scont3"><img src={i5} alt="error" /><br /><p>Home Loans</p></div>
+        <div data-aos="zoom-in-down" className="scont3"><img src={i6} alt="error" /><br /><p>Housing Protect</p></div>
       </div>
 
-      <div data-aos="zoom-in-down" className="smallcforsmalldiv">
-      <div data-aos="zoom-in-down" className="smcont"><img src={i7} alt="error" /><br /><p>Pay on Credit</p></div>
-      <div data-aos="zoom-in-down" className="smcont"><img src={i8} alt="error" /><br /><p>Personal Loans</p></div>
-      <div data-aos="zoom-in-down" className="smcont"><img src={i9} alt="error" /><br /><p>Line of Crdit</p></div>
-      <div data-aos="zoom-in-down" className="smcont"><img src={i10} alt="error" /><br /><p>Home Interiors</p></div>
-      <div data-aos="zoom-in-down" className="smcont"><img src={i11} alt="error" /><br /><p>Home Loans</p></div>
-      <div data-aos="zoom-in-down" className="smcont"><img src={i12} alt="error" /><br /><p>Housing Protect</p></div>
+      <div data-aos="zoom-in-down" className="smallcont32">
+      <div data-aos="zoom-in-down" className="scont3"><img src={i7} alt="error" /><br /><p>Pay on Credit</p></div>
+      <div data-aos="zoom-in-down" className="scont3"><img src={i8} alt="error" /><br /><p>Personal Loans</p></div>
+      <div data-aos="zoom-in-down" className="scont3"><img src={i9} alt="error" /><br /><p>Line of Crdit</p></div>
+      <div data-aos="zoom-in-down" className="scont3"><img src={i10} alt="error" /><br /><p>Home Interiors</p></div>
+      <div data-aos="zoom-in-down" className="scont3"><img src={i11} alt="error" /><br /><p>Home Loans</p></div>
+      <div data-aos="zoom-in-down" className="scont3"><img src={i12} alt="error" /><br /><p>Housing Protect</p></div>
       </div>
 
 
