@@ -9,7 +9,7 @@ export default function Fourthcont() {
     <div>
       <div className="fourthcont">
         <h2 id='fourhead'>Everything should be easy</h2>
-
+      
       <div className="fourthcontsmall"><img src={giff1} alt="" />
       <p>Answer-Questions</p>
       <h3>Get answers to your questions quickly and easily.</h3>

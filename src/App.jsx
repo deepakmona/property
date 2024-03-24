@@ -47,9 +47,9 @@ function App() {
     <Firstcont/>
     <Secondcont/>
     <Thirdcont/>
-    {/* <Fourthcont/>
+    <Fourthcont/>
     <Fifthcont/>
-    <Sixthcont/>
+    {/* <Sixthcont/>
     <Seventh/>
     <Eigth/>
     <Ninth/>
