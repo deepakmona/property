@@ -24,14 +24,14 @@ export default function Secondcont() {
       <div className="secondcont">
   
       <h1 data-aos="flip-left" id='housing' >Housing Edge</h1>
-      <div data-aos="fade-up" className="smallcforsmalldiv">
+      <div data-aos="fade-up" className="smallcont2">
 
-      <div className="smcont" data-aos="flip-right"><img src={img1} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Pay on Credit</p></div>
-      <div className="smcont" data-aos="flip-right"><img src={img2} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Personal Loans</p></div>
-      <div className="smcont" data-aos="flip-right"><img src={img3} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Line of Crdit</p></div>
-      <div className="smcont" data-aos="flip-right"><img src={img4} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Interiors</p></div>
-      <div className="smcont" data-aos="flip-right"><img src={img5} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Loans</p></div>
-      <div className="smcont" data-aos="flip-right"><img src={img6} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Housing Protect</p></div>
+      <div className="scont" data-aos="flip-right"><img src={img1} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Pay on Credit</p></div>
+      <div className="scont" data-aos="flip-right"><img src={img2} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Personal Loans</p></div>
+      <div className="scont" data-aos="flip-right"><img src={img3} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Line of Crdit</p></div>
+      <div className="scont" data-aos="flip-right"><img src={img4} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Interiors</p></div>
+      <div className="scont" data-aos="flip-right"><img src={img5} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Loans</p></div>
+      <div className="scont" data-aos="flip-right"><img src={img6} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Housing Protect</p></div>
 
       </div>
 
