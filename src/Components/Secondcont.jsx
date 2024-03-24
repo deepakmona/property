@@ -26,12 +26,12 @@ export default function Secondcont() {
       <h1 data-aos="flip-left" id='housing' >Housing Edge</h1>
       <div data-aos="fade-up" className="smallcforsmalldiv">
 
-      <div data-aos="flip-right" className="smcont"><img src={img1} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Pay on Credit</p></div>
-      <div data-aos="flip-right" className="smcont"><img src={img2} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Personal Loans</p></div>
-      <div data-aos="flip-right" className="smcont"><img src={img3} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Line of Crdit</p></div>
-      <div data-aos="flip-right" className="smcont"><img src={img4} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Interiors</p></div>
-      <div data-aos="flip-right" className="smcont"><img src={img5} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Loans</p></div>
-      <div data-aos="flip-right" className="smcont"><img src={img6} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Housing Protect</p></div>
+      <div className="smcont" data-aos="flip-right"><img src={img1} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Pay on Credit</p></div>
+      <div className="smcont" data-aos="flip-right"><img src={img2} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Personal Loans</p></div>
+      <div className="smcont" data-aos="flip-right"><img src={img3} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Line of Crdit</p></div>
+      <div className="smcont" data-aos="flip-right"><img src={img4} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Interiors</p></div>
+      <div className="smcont" data-aos="flip-right"><img src={img5} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Home Loans</p></div>
+      <div className="smcont" data-aos="flip-right"><img src={img6} alt="error" /><br /><p style={{color:"rgb(22 245 0)"}}>Housing Protect</p></div>
 
       </div>
 
