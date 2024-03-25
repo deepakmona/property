@@ -49,13 +49,13 @@ function App() {
     <Thirdcont/>
     <Fourthcont/>
     <Fifthcont/>
-    {/* <Sixthcont/>
-    <Seventh/>
+    <Sixthcont/>
     <Eigth/>
     <Ninth/>
-    <Search/>
+    {/*<Search/>
     <Footer/> */}
      {/* <Loginform/> */}
+       {/* <Seventh/> */}
 
     </>
 }
