@@ -52,8 +52,8 @@ function App() {
     <Sixthcont/>
     <Eigth/>
     <Ninth/>
-    {/*<Search/>
-    <Footer/> */}
+    <Search/>
+    <Footer/>
      {/* <Loginform/> */}
        {/* <Seventh/> */}
 

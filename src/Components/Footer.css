@@ -4,7 +4,7 @@
     background-color:black;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .footer{
     height:280px;
     }
@@ -18,18 +18,26 @@
     margin:auto;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .smallfooterlink{
         width:100%;
     }
 }
+
+
+@media screen and (min-width:601px) and (max-width:1100px){
+    .smallfooterlink{
+        width:100%;
+    }
+}
+
 
 .smallfooterlink a{
     margin-left:30px;
     color:white;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .smallfooterlink a{
     font-size:12px;
     margin-left:20px;
@@ -42,10 +50,17 @@
     margin:auto;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .secondoffooter{
     width:100%;
     height:auto;
+    }
+}
+
+
+@media screen and (min-width:601px) and (max-width:1300px){
+    .secondoffooter{
+        width:100%;
     }
 }
 
@@ -55,12 +70,19 @@
     margin-top:10px;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .secondoffooter button{
         margin-left:7px;
         padding:0px 0px 0px;
         margin-top:10px;
         width:30%;
+    }
+}
+
+
+@media screen and (min-width:601px) and (max-width:1300px){
+    .secondoffooter button{
+        margin-left:8%;
     }
 }
 
@@ -82,11 +104,23 @@
     margin-left:50px;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .lastoffooter img{
       margin-left:4%;
       width:15%;
       margin-top:10px;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:1300px){
+    .lastoffooter{
+        width:100%;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:1300px){
+    .lastoffooter img{
+        margin-left:12%;
     }
 }
 
@@ -96,9 +130,15 @@
 }
 
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     #lastpara{
     font-size:13px;
     text-align:center;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:1300px){
+    #lastpara{
+        text-align:center;
     }
 }
